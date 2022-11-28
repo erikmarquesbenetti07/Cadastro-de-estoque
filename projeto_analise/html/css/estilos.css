@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    background-color: #493c65;
+    height: 100vh;
+    text-align: center
+  }
+
+.alinharRotulos {
+    text-align: right;
+    font-size: 20px;
+}
+.alinhaBtns {
+    width:30%;
+    background-color: #7f73a1;
+    color:white;
+    border:0px;
+    padding:5px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+}
+.carrinho {
+    width:300px; 
+    float:right;
+}
+.carrinho p {
+    display: inline;
+}
+table {
+    clear:both; 
+    background-color: #2a225a;
+    border-radius: 110px; 
+    color: white;
+    padding:49px;
+    margin:auto;
+    width: 100%;
+    max-width: 900px;
+}
+caption {
+    color: white; 
+    font-weight: bold; 
+    font-size: 45px;
+}
